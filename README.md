@@ -17,7 +17,7 @@
 
 <p align="center">
 <img src="https://github.com/Digital-Department-Vavilov-University/AR_cow/assets/135830345/5852da94-a8b6-4c45-a058-52f8373119bb"><br>
-Лёгкие КРС
+Лёгкие КРС с применением AR-технологий
 </p>
 
 
