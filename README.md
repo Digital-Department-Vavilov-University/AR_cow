@@ -24,7 +24,7 @@
 
 <p align="center">
 <img src="https://github.com/Digital-Department-Vavilov-University/AR_cow/assets/135830345/0de6ed16-3489-4593-a201-a063493fe4d4"><br>
-Визуализация органов с применением AR-технологий
+Визуализация органов КРС с применением AR-технологий
 </p>
 
 ###  Импорт проекта в Unity
